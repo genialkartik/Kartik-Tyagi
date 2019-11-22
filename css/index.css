@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.mac-bg-img img{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+.upper-docker-conn{
+  position: absolute;
+  width: 100%;
+  height: 3%;
+  background: #5B5851;
+  color: white;
+}
+.up-do-left ul li{
+  position: relative;
+  float: left;
+  list-style: none;
+}
+.up-do-menu ul li{
+  list-style: none;
+}
+#up-do-logo img{
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+
+.docker-container{
+  position: absolute;
+  bottom: 0;
+  background: none;
+  width: 100%;
+  height: 6.5%;
+}
+
+#docker-inner-cont{
+  position: absolute;
+  width: 76%;
+  left: 12%;
+  height: 100%;
+  border-radius: 8px 8px 0px 0px;
+  overflow: hidden;
+  border: 1px solid rgba(205,205,205,0.2);
+  background: rgba(255, 255, 255, .12)
+
+}
+#abc{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  filter: blur(1000px);
+}
+.docker-conn ul li{
+  position: relative;
+  float: left;
+  text-decoration: none;
+  list-style: none;
+}
+.docker-conn ul li img{
+  font-size: absolute;
+  margin: 2px 8px;
+  width: 46px;
+  height: 46px;
+  filter: brightness(1.3);
+}
