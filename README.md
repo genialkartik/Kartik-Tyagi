@@ -9,5 +9,5 @@ Screenshots:
 
 ### Deprecated Notice:
 This repo is my good first coded profolio webiste.<br>
-Check out the new Repo link [here](https://github.com/genialkartik/genialkartik.github.io.)
+Check out the new Repo link [here](https://github.com/genialkartik/genialkartik.github.io.) <br>
 Latest non-deprecated URL to the website: [kartiktyagi.codes](https://kartiktyagi.codes)
