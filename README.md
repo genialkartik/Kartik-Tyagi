@@ -9,7 +9,7 @@ Screenshots:
 
 [![](https://codescene.io/projects/6678/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/6678/jobs/latest-successful/results)
 
-### Note:
+### Deprecated Notice:
 This repo is my good first coded profolio webiste.<br>
 Check out the new Repo link [here](https://github.com/genialkartik/genialkartik.github.io.)
 Latest non-deprecated URL to the website: [kartiktyagi.codes](https://kartiktyagi.codes)
